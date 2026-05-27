@@ -1,3 +1,10 @@
+# 27-May-2026
+
+- Reduced blur radius for Pixel Launcher
+- Codec Behaviour should be better
+- App Thermal profiles are back, thanks to the UI revamp done by Chris.
+- CameraX extensions support is back
+
 # 20-May-2026
 
 - Switched to OSS Mediatek Wifi lib which fixes 5ghz hotspot 
