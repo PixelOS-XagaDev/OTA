@@ -4,4 +4,4 @@
 - Dolby Atmos is added
 - Zram Writeback is added (It helps when zram is full by writing back to disk)
 - Tuned Auto Refresh rate switch intervals
-- There are many other misslanious bug fixes & improvements
+- There are many other miscellaneous bug fixes & improvements
